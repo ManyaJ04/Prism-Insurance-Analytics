@@ -1,6 +1,7 @@
 # 📊 Prism Insurance Report – Power BI Report
 
-An insightful Power BI dashboard that provides a comprehensive analysis of insurance data, combining structured insights with sentiment-driven analytics. This project demonstrates SQL integration, data modeling, text analytics, drillthrough interactivity, and dynamic visuals to support data-driven decisions.
+An insightful Power BI dashboard that provides a comprehensive analysis of insurance data, combining structured insights with sentiment-driven analytics. The dataset, sourced from a fictional insurance company's SQL database, includes policy records, customer demographics, claims data, and open-text customer feedback. This project demonstrates SQL integration, data modeling, text analytics, drillthrough interactivity, and dynamic visuals to support data-driven decisions.
+
 
 ---
 

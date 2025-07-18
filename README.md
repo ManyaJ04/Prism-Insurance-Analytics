@@ -55,19 +55,20 @@ An insightful Power BI dashboard that provides a comprehensive analysis of insur
 
 ---
 
+
 ## 📁 Project Structure
 
-Prism-Insurance-Report/
-├── RawData/                    # SQL-exported raw data (CSV or Excel)
-│   └── insurance_data.csv
-│
-├── Images/                     # Screenshots of the report
-│   ├── page1.png               # Overall report dashboard
-│   ├── page2.png               # Drillthrough table view
-│   └── page3.png               # Word map view
-│
-├── PrismInsuranceReport.pbix   # Main Power BI dashboard file
-└── README.md                   # Project documentation
+| Folder/File                     | Description                                      |
+|--------------------------------|--------------------------------------------------|
+| `RawData/`                     | Folder containing SQL-exported raw data         |
+| └── `insurance_data.csv`       | Cleaned raw dataset from SSMS                   |
+| `Images/`                      | Folder containing report screenshots            |
+| ├── `page1.png`                | Overall report dashboard                        |
+| ├── `page2.png`                | Drillthrough table view                         |
+| └── `page3.png`                | Word map based on customer feedback             |
+| `PrismInsuranceReport.pbix`    | Main Power BI dashboard file                    |
+| `README.md`                    | Project documentation                           |
+
 
 
 ---

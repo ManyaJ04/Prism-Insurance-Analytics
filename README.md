@@ -45,7 +45,7 @@ An insightful Power BI dashboard that provides a comprehensive analysis of insur
 
 ---
 
-## 🖼️ Dashboard Previews
+## 🖼️ Report Previews
 
 | Page | Description |
 |------|-------------|
